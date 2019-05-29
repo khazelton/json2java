@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "attributes": {
+        "organization_id": 10002,
+        "organization_name": "The Ohio State University",
+        "role": "Site administrator",
+        "status": "active",
+        "person_id": 1000002,
+        "person_name": "Scott Cantor",
+        "email": "demo@example.edu"
+      }
+    },
+    {
+      "id": "14",
+      "attributes": {
+        "organization_id": 10014,
+        "organization_name": "University of Virginia",
+        "role": "Site administrator",
+        "status": "active",
+        "person_id": 1000015,
+        "person_name": "James Jokl",
+        "email": "demo@example.edu"
+      }
+    },
+    {
+      "id": "17",
+      "attributes": {
+        "organization_id": 10016,
+        "organization_name": "Iparadigms, LLC",
+        "role": "Site administrator",
+        "status": "active",
+        "person_id": 1000018,
+        "person_name": "David Wu",
+        "email": "demo@example.edu"
+      }
+    },
+    {
+      "id": "20",
+      "attributes": {
+        "organization_id": 10019,
+        "organization_name": "Miami University",
+        "role": "Site administrator",
+        "status": "active",
+        "person_id": 1000021,
+        "person_name": "Dirk Tepe",
+        "email": "demo@example.edu"
+      }
+    },
+    {
+      "id": "21",
+      "attributes": {
+        "organization_id": 10020,
+        "organization_name": "Stanford University",
+        "role": "Site administrator",
+        "status": "active",
+        "person_id": 1000022,
+        "person_name": "Bruce Vincent",
+        "email": "demo@example.edu"
+      }
+    }
+  ]
+}
